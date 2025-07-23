@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>免费的图床方案</title>
+      <link href="/2025/07/22/%E5%85%8D%E8%B4%B9%E7%9A%84%E5%9B%BE%E5%BA%8A%E6%96%B9%E6%A1%88/"/>
+      <url>/2025/07/22/%E5%85%8D%E8%B4%B9%E7%9A%84%E5%9B%BE%E5%BA%8A%E6%96%B9%E6%A1%88/</url>
+      
+        <content type="html"><![CDATA[<h1 id="基于微博图床的延伸"><a href="#基于微博图床的延伸" class="headerlink" title="基于微博图床的延伸"></a>基于微博图床的延伸</h1><h2 id="ipfsscan方案"><a href="#ipfsscan方案" class="headerlink" title="ipfsscan方案"></a><a href="https://ipfsscan.io/">ipfsscan方案</a></h2><h3 id="使用方法获取微博中的图片地址，去掉微博图片链接中域名部分后的链接"><a href="#使用方法获取微博中的图片地址，去掉微博图片链接中域名部分后的链接" class="headerlink" title="使用方法获取微博中的图片地址，去掉微博图片链接中域名部分后的链接"></a>使用方法获取微博中的图片地址，去掉微博图片链接中域名部分后的链接</h3><p>使用ipfsscan.io将图片上传到ipfs（由于图片上传图床不建议隐私图片）</p><p>这是获取到的地址<a href="https://wx4.sinaimg.cn/orj360/0073d53Lgy1hnk48g7mgwj32c0340hdt.jpg">https://wx4.sinaimg.cn/orj360/0073d53Lgy1hnk48g7mgwj32c0340hdt.jpg</a></p><p>可以在网页版微博中复制</p><p>然后删掉前面的https:&#x2F;&#x2F;</p><p>改为<a href="https://cdn.ipfsscan.io/weibo/">https://cdn.ipfsscan.io/weibo/</a></p><p>像这样<a href="https://cdn.ipfsscan.io/weibo/wx4.sinaimg.cn/orj360/0073d53Lgy1hnk48g7mgwj32c0340hdt.jpg">https://cdn.ipfsscan.io/weibo/wx4.sinaimg.cn/orj360/0073d53Lgy1hnk48g7mgwj32c0340hdt.jpg</a><br><img src="https://cdn.ipfsscan.io/weibo/wx4.sinaimg.cn/orj360/0073d53Lgy1hnk48g7mgwj32c0340hdt.jpg" alt="看文字就是失效了" title="Magic Gardens"></p><p>！！因为不是自己的图床切记不要上传隐私内容，并且图床是有可能失效的，建议使用自己的图床但因为是免费的所以只能这样了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 图床 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图床 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>这里是新的开始</title>
       <link href="/2025/07/21/%E8%BF%99%E9%87%8C%E6%98%AF%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
       <url>/2025/07/21/%E8%BF%99%E9%87%8C%E6%98%AF%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
